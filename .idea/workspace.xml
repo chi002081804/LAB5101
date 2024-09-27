@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b40aafe0-e698-4769-a04c-a49ee8528a6f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB5101.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LAB5101.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1_Java_IDE_and_Setup/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_1_Java_IDE_and_Setup/src/main/java/com/chi/infolab/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/res/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/src/main/java/com/chi/infolab/MainJFrame.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/src/main/java/com/chi/infolab/MainJFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/target/classes/com/chi/infolab/MainJFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/target/classes/com/chi/infolab/MainJFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/target/classes/com/chi/infolab/MainJFrame$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/target/classes/com/chi/infolab/MainJFrame$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/target/classes/com/chi/infolab/MainJFrame$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/target/classes/com/chi/infolab/MainJFrame$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/target/classes/com/chi/infolab/MainJFrame$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/target/classes/com/chi/infolab/MainJFrame$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/target/classes/com/chi/infolab/MainJFrame$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/target/classes/com/chi/infolab/MainJFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/LAB5101.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/Lab_1_Java_IDE_and_Setup/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/Lab_2_Introduction_to_Java_Swing_Library/res/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/Lab_2_Introduction_to_Java_Swing_Library/res/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/Lab_2_Introduction_to_Java_Swing_Library/res/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/Lab_2_Introduction_to_Java_Swing_Library/res/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/Lab_2_Introduction_to_Java_Swing_Library/res/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/Lab_2_Introduction_to_Java_Swing_Library/res/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/com/intellij/uiDesigner/core/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="79f209bf3a84aa8588f729d1364a884ea294fabb" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="72dc2b04-bf9a-476e-b0a6-01785dc74536" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2mf9ttgFDyfBEPQwPSwbbqlvAfY" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MainJFrame.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "3935e774",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/OKC/Documents/8.NEU/INFO5100/LAB5101",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15234375",
+    "project.structure.side.proportion": "0.5804598",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Lab_2_Introduction_to_Java_Swing_Library.ui.MainJFrame">
+    <configuration name="Lab_2_Introduction_to_Java_Swing_Library.ui.MainJFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_2_Introduction_to_Java_Swing_Library.ui.MainJFrame" />
+      <module name="LAB5101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab_2_Introduction_to_Java_Swing_Library.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainJFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.MainJFrame" />
+      <module name="LAB5101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab_2_Introduction_to_Java_Swing_Library.ui.MainJFrame" />
+        <item itemvalue="Application.MainJFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b40aafe0-e698-4769-a04c-a49ee8528a6f" name="Changes" comment="" />
+      <created>1727456983519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727456983519</updated>
+      <workItem from="1727456985277" duration="45000" />
+      <workItem from="1727457083797" duration="86000" />
+      <workItem from="1727457187027" duration="287000" />
+      <workItem from="1727457506395" duration="244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
