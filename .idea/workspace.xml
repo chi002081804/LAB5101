@@ -1,55 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b40aafe0-e698-4769-a04c-a49ee8528a6f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB5101.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LAB5101.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1_Java_IDE_and_Setup/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1_Java_IDE_and_Setup/src/main/java/com/chi/infolab/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/res/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/src/main/java/com/chi/infolab/MainJFrame.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/src/main/java/com/chi/infolab/MainJFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/target/classes/com/chi/infolab/MainJFrame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/target/classes/com/chi/infolab/MainJFrame$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/target/classes/com/chi/infolab/MainJFrame$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/target/classes/com/chi/infolab/MainJFrame$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/target/classes/com/chi/infolab/MainJFrame$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/target/classes/com/chi/infolab/MainJFrame$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/target/classes/com/chi/infolab/MainJFrame$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/target/classes/com/chi/infolab/MainJFrame$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/target/classes/com/chi/infolab/MainJFrame$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2_Introduction_to_Java_Swing_Library/target/classes/com/chi/infolab/MainJFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/LAB5101.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/Lab_1_Java_IDE_and_Setup/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/Lab_2_Introduction_to_Java_Swing_Library/res/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/Lab_2_Introduction_to_Java_Swing_Library/res/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/Lab_2_Introduction_to_Java_Swing_Library/res/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/Lab_2_Introduction_to_Java_Swing_Library/res/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/Lab_2_Introduction_to_Java_Swing_Library/res/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/Lab_2_Introduction_to_Java_Swing_Library/res/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/com/intellij/uiDesigner/core/Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB5101/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" />
+    <list default="true" id="b40aafe0-e698-4769-a04c-a49ee8528a6f" name="Changes" comment="optimize the structure">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/model/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/FormPanel.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/FormPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/MainJFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/MainJFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/ViewJPanel.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/ViewPanel.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/ViewPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/resources/output/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/resources/output/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/resources/output/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/resources/output/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/resources/output/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/resources/output/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/resources/output/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/resources/output/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,20 +54,34 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Lab_2_Introduction_to_Java_Swing_Library.ui.MainJFrame.executor": "Run",
     "Application.MainJFrame.executor": "Run",
+    "Application.com.chi.infolab.view.MainJFrame.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "3935e774",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "2d1aa332",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/OKC/Documents/8.NEU/INFO5100/LAB5101",
+    "last_opened_file_path": "C:/Users/OKC/Documents/8.NEU/INFO5100/LAB5101/Lab_3_Navigation_flow_in_Java_Swing/src/main/resources/output",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15234375",
     "project.structure.side.proportion": "0.5804598",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab_2_Introduction_to_Java_Swing_Library.ui.MainJFrame">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\OKC\Documents\8.NEU\INFO5100\LAB5101\Lab_3_Navigation_flow_in_Java_Swing\src\main\resources\output" />
+      <recent name="C:\Users\OKC\Documents\8.NEU\INFO5100\LAB5101\Lab_3_Navigation_flow_in_Java_Swing\src\main\java\com\chi\infolab" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.chi.infolab.view.MainJFrame">
     <configuration name="Lab_2_Introduction_to_Java_Swing_Library.ui.MainJFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab_2_Introduction_to_Java_Swing_Library.ui.MainJFrame" />
       <module name="LAB5101" />
@@ -117,8 +108,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.chi.infolab.view.MainJFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chi.infolab.view.MainJFrame" />
+      <module name="Lab_3_Navigation_flow_in_Java_Swing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chi.infolab.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.chi.infolab.view.MainJFrame" />
         <item itemvalue="Application.Lab_2_Introduction_to_Java_Swing_Library.ui.MainJFrame" />
         <item itemvalue="Application.MainJFrame" />
       </list>
@@ -143,8 +148,30 @@
       <workItem from="1727456985277" duration="45000" />
       <workItem from="1727457083797" duration="86000" />
       <workItem from="1727457187027" duration="287000" />
-      <workItem from="1727457506395" duration="244000" />
+      <workItem from="1727457506395" duration="1758000" />
+      <workItem from="1727459299638" duration="942000" />
+      <workItem from="1727481834253" duration="115000" />
+      <workItem from="1727494833712" duration="23000" />
+      <workItem from="1727496204440" duration="322000" />
+      <workItem from="1727502217959" duration="741000" />
     </task>
+    <task id="LOCAL-00001" summary="optimize the structure">
+      <option name="closed" value="true" />
+      <created>1727457803481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727457803481</updated>
+    </task>
+    <task id="LOCAL-00002" summary="optimize the structure">
+      <option name="closed" value="true" />
+      <created>1727457850867</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727457850867</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,5 +187,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="optimize the structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="optimize the structure" />
   </component>
 </project>
