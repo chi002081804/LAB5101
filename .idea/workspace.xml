@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b40aafe0-e698-4769-a04c-a49ee8528a6f" name="Changes" comment="feature: finish lab 3 assignment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/FormPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/FormPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/ViewJPanel.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/ViewPanel.form" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/ViewPanel.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/ViewPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/ViewPanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,15 +19,27 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="79f209bf3a84aa8588f729d1364a884ea294fabb" />
+        <entry key="$PROJECT_DIR$" value="d5fc0bc9e009e72dcff1a4a761fd4559c8ded406" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;chi002081804&quot;
+  }
+}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="72dc2b04-bf9a-476e-b0a6-01785dc74536" />
   </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/chi002081804/LAB5101.git&quot;,
+    &quot;accountId&quot;: &quot;72dc2b04-bf9a-476e-b0a6-01785dc74536&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -31,33 +47,36 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Lab_2_Introduction_to_Java_Swing_Library.ui.MainJFrame.executor": "Run",
-    "Application.MainJFrame.executor": "Run",
-    "Application.com.chi.infolab.view.MainJFrame.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "bd836f15",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/OKC/Documents/8.NEU/INFO5100/LAB5101/Lab_3_Navigation_flow_in_Java_Swing/src/main/resources/output",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15234375",
-    "project.structure.side.proportion": "0.5804598",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Lab_2_Introduction_to_Java_Swing_Library.ui.MainJFrame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainJFrame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.chi.infolab.view.MainJFrame.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/OKC/Documents/8.NEU/INFO5100/LAB5101/Lab_3_Navigation_flow_in_Java_Swing/src/main/resources/output&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15234375&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.5804598&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\OKC\Documents\8.NEU\INFO5100\LAB5101\Lab_3_Navigation_flow_in_Java_Swing\src\main\resources\output" />
       <recent name="C:\Users\OKC\Documents\8.NEU\INFO5100\LAB5101\Lab_3_Navigation_flow_in_Java_Swing\src\main\java\com\chi\infolab" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\OKC\Documents\8.NEU\INFO5100\LAB5101\Lab_3_Navigation_flow_in_Java_Swing" />
     </key>
   </component>
   <component name="RunManager" selected="Application.com.chi.infolab.view.MainJFrame">
@@ -133,6 +152,16 @@
       <workItem from="1727494833712" duration="23000" />
       <workItem from="1727496204440" duration="322000" />
       <workItem from="1727502217959" duration="1128000" />
+      <workItem from="1727503360790" duration="327000" />
+      <workItem from="1727559895498" duration="17000" />
+      <workItem from="1727560027904" duration="108000" />
+      <workItem from="1727568204140" duration="720000" />
+      <workItem from="1727791389917" duration="383000" />
+      <workItem from="1727791917372" duration="384000" />
+      <workItem from="1727822595799" duration="129000" />
+      <workItem from="1727823166278" duration="47000" />
+      <workItem from="1728247918791" duration="429000" />
+      <workItem from="1728248368229" duration="196000" />
     </task>
     <task id="LOCAL-00001" summary="optimize the structure">
       <option name="closed" value="true" />
@@ -166,7 +195,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727503071373</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feature: finish lab 3 assignment">
+      <option name="closed" value="true" />
+      <created>1727503474519</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727503474519</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feature: finish lab 3 assignment">
+      <option name="closed" value="true" />
+      <created>1727503618909</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727503618909</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

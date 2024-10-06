@@ -334,6 +334,7 @@ public class FormPanel extends JPanel {
                     "Gender: " + gender + "<br>" +
                     "Type: " + typeJComboBox.getSelectedItem() + "<br>" +
                     "Message: " + jTextArea.getText() + "<br>" +
+                    "Date: " + date.toString() + "<br>" +
                     "</body>" +
                     "</html>";
 
