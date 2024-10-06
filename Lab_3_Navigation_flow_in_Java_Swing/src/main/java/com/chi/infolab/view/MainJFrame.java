@@ -16,7 +16,7 @@ import java.awt.image.BufferedImage;
 public class MainJFrame extends JFrame {
 
     /**
-     * Creates new form MainJFrame
+     * Creates new form MainJFrame 123
      */
     public MainJFrame() {
         initComponents();

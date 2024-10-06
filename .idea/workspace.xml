@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b40aafe0-e698-4769-a04c-a49ee8528a6f" name="Changes" comment="optimize: delete button in view panel">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/MainJFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/MainJFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,15 +27,12 @@
     &quot;assignee&quot;: &quot;chi002081804&quot;
   }
 }</component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="72dc2b04-bf9a-476e-b0a6-01785dc74536" />
-  </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/chi002081804/LAB5101.git&quot;,
-    &quot;accountId&quot;: &quot;72dc2b04-bf9a-476e-b0a6-01785dc74536&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/chi002081804/LAB5101.git",
+    "accountId": "0a63b83e-17f4-445c-b41f-dbd34756a03c"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -158,7 +155,7 @@
       <workItem from="1727823166278" duration="47000" />
       <workItem from="1728247918791" duration="429000" />
       <workItem from="1728248368229" duration="879000" />
-      <workItem from="1728249343356" duration="14000" />
+      <workItem from="1728249343356" duration="81000" />
     </task>
     <task id="LOCAL-00001" summary="optimize the structure">
       <option name="closed" value="true" />
@@ -216,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728248616883</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="optimize: delete button in view panel">
+      <option name="closed" value="true" />
+      <created>1728249369967</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728249369967</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +242,7 @@
     <MESSAGE value="optimize the structure" />
     <MESSAGE value="feature: finish lab 3 assignment" />
     <MESSAGE value="optimize: delete bottom" />
-    <option name="LAST_COMMIT_MESSAGE" value="optimize: delete bottom" />
+    <MESSAGE value="optimize: delete button in view panel" />
+    <option name="LAST_COMMIT_MESSAGE" value="optimize: delete button in view panel" />
   </component>
 </project>
