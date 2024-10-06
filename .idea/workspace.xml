@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b40aafe0-e698-4769-a04c-a49ee8528a6f" name="Changes" comment="optimize: delete button in view panel">
+    <list default="true" id="b40aafe0-e698-4769-a04c-a49ee8528a6f" name="Changes" comment="optimize: change commit user name">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,12 +27,12 @@
     &quot;assignee&quot;: &quot;chi002081804&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/chi002081804/LAB5101.git",
-    "accountId": "0a63b83e-17f4-445c-b41f-dbd34756a03c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/chi002081804/LAB5101.git&quot;,
+    &quot;accountId&quot;: &quot;0a63b83e-17f4-445c-b41f-dbd34756a03c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -156,6 +156,7 @@
       <workItem from="1728247918791" duration="429000" />
       <workItem from="1728248368229" duration="879000" />
       <workItem from="1728249343356" duration="482000" />
+      <workItem from="1728249839162" duration="142000" />
     </task>
     <task id="LOCAL-00001" summary="optimize the structure">
       <option name="closed" value="true" />
@@ -229,7 +230,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728249432586</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="optimize: change commit user name">
+      <option name="closed" value="true" />
+      <created>1728249866246</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728249866246</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,6 +260,7 @@
     <MESSAGE value="feature: finish lab 3 assignment" />
     <MESSAGE value="optimize: delete bottom" />
     <MESSAGE value="optimize: delete button in view panel" />
-    <option name="LAST_COMMIT_MESSAGE" value="optimize: delete button in view panel" />
+    <MESSAGE value="optimize: change commit user name" />
+    <option name="LAST_COMMIT_MESSAGE" value="optimize: change commit user name" />
   </component>
 </project>
