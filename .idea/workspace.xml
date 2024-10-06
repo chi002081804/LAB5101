@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b40aafe0-e698-4769-a04c-a49ee8528a6f" name="Changes" comment="optimize: delete button in view panel">
-      <change beforePath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/MainJFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/MainJFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +155,7 @@
       <workItem from="1727823166278" duration="47000" />
       <workItem from="1728247918791" duration="429000" />
       <workItem from="1728248368229" duration="879000" />
-      <workItem from="1728249343356" duration="81000" />
+      <workItem from="1728249343356" duration="482000" />
     </task>
     <task id="LOCAL-00001" summary="optimize the structure">
       <option name="closed" value="true" />
@@ -221,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728249369967</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="optimize: delete button in view panel">
+      <option name="closed" value="true" />
+      <created>1728249432586</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728249432586</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
