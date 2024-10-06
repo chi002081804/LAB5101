@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b40aafe0-e698-4769-a04c-a49ee8528a6f" name="Changes" comment="feature: finish lab 3 assignment">
+    <list default="true" id="b40aafe0-e698-4769-a04c-a49ee8528a6f" name="Changes" comment="optimize: delete button in view panel">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/FormPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/FormPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/ViewJPanel.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/ViewPanel.form" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/ViewPanel.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/ViewPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3_Navigation_flow_in_Java_Swing/src/main/java/com/chi/infolab/view/ViewPanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +157,8 @@
       <workItem from="1727822595799" duration="129000" />
       <workItem from="1727823166278" duration="47000" />
       <workItem from="1728247918791" duration="429000" />
-      <workItem from="1728248368229" duration="196000" />
+      <workItem from="1728248368229" duration="879000" />
+      <workItem from="1728249343356" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="optimize the structure">
       <option name="closed" value="true" />
@@ -211,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727503618909</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="optimize: delete bottom">
+      <option name="closed" value="true" />
+      <created>1728248616883</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728248616883</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +236,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="optimize the structure" />
     <MESSAGE value="feature: finish lab 3 assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature: finish lab 3 assignment" />
+    <MESSAGE value="optimize: delete bottom" />
+    <option name="LAST_COMMIT_MESSAGE" value="optimize: delete bottom" />
   </component>
 </project>
